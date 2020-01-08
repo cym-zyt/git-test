@@ -15,4 +15,11 @@ public class FirstClass {
         System.out.println("hello");
         System.out.println("hello");
     }
+    public void test1(){
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+    }
 }
